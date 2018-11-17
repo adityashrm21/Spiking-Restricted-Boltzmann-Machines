@@ -1,4 +1,4 @@
 # Spiking-Restricted-Boltzmann-Machines
 Applications and build-up over basic SRBM implementation
 
-Motivation behind this work : https://goo.gl/BmC8sp
+Motivation behind this work : Daniel Neil's master's thesis on [Online Learning in Event-based Restricted Boltzmann Machines](http://dannyneil.com/attach/dneil_thesis.pdf)
